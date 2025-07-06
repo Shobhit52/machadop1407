@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎥 I teach web dev to **millions** on **[YouTube](https://youtube.com/@pedrotechnologies)**  
+- 🎥 I teach web dev to **data science** on **[YouTube](https://youtube.com/@pedrotechnologies)**  
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
@@ -17,9 +17,9 @@
 
 ## 🧠 My Favorite Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![tablau](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![powe bi](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![ms axel](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ---
