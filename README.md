@@ -28,7 +28,7 @@
 
 > Learn **React.js from zero to hero** in my full video course, packed with hands-on projects and modern practices.
 
-🚨 **[👉 Click here to access the course](https://react.pedrotech.co)**
+🚨 **[👉 Click here to access the course](googler.com)**
 
 ---
 
