@@ -24,9 +24,9 @@
 
 ---
 
-## 📚 Check Out My React Course!
+## 📚 Check Out My project
 
-> Learn **React.js from zero to hero** in my full video course, packed with hands-on projects and modern practices.
+> Learn **logic building** while making compiler from scretch.
 
 🚨 **[👉 Click here to access the course](googler.com)**
 
