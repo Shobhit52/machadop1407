@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎥 10+2 **katni(m.p)** on **[hdm]([https://youtube.com/@pedrotechnologies](https://www.justdial.com/Katni/H-D-Memorial-Higher-Secondary-School-Acharya-Vinoba-Bhave-WardNear-Khirani-Phatak-Overbridge-Katni-H-O/9999P7622-7622-140316134034-T5R9_BZDET))**  
+- 🎥 10+2 **katni(m.p)** on **[hdm]([google.com](https://www.justdial.com/Katni/H-D-Memorial-Higher-Secondary-School-Acharya-Vinoba-Bhave-WardNear-Khirani-Phatak-Overbridge-Katni-H-O/9999P7622-7622-140316134034-T5R9_BZDET))**  
 - 💻 Passionate about building fullstack apps with **React**, **Next.js**, **TypeScript**, and **Supabase**
 - 🧠 Constantly learning & sharing what I learn
 - 🛠️ Focused on **performance**, **developer experience**, and **clean UI**
